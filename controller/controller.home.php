@@ -1,3 +1,3 @@
 <?php
-$myMessage="hey yo yo";
+$myMessage="";
 ?>
