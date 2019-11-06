@@ -26,6 +26,8 @@ button {
     background-color: rgba(0, 0, 0, .8);
     padding: 0 40px;
     box-sizing: border-box;
+    z-index:10;
+    position: relative;
 }
 
 .nav-inner {
@@ -59,3 +61,17 @@ button {
     background-color: #D269FF; 
 }
 /*nav ends*/
+
+/*video starts*/
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    z-index:0;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+/*video ends*/
