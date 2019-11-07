@@ -1,0 +1,59 @@
+[
+    {
+        "id": 0,
+        "title": "",
+        "description": "",
+        "main-image": "",
+        "skill-type": "",
+        "rating": "",
+        "levels": [
+            {
+                "level": "1",
+                "difficulty": "1/5",
+                "description": "",
+                "instructions": [],
+                "diagram": "",
+                "active": 1
+            }
+        ],
+        "active": 0
+    },
+    {
+        "id": 1,
+        "title": "twirl",
+        "description": "variety of turns with balance",
+        "main-image": "https://www.imperial.ac.uk/news/image/mainnews2012/19172.jpg",
+        "skill-type": "turns",
+        "rating": "10/10",
+        "levels": [
+            {
+                "level": "1",
+                "difficulty": "1/5",
+                "description": "level one twirls you would learn the balance positions,level 2 you would add technique",
+                "instructions": [
+                    "static",
+                    "balance",
+                    "teachnique to twirls",
+                    "twirls"
+                ],
+                "diagram": "/imgs/diagrams/twirl-l1.jpeg",
+                "active": 1
+            },
+            {
+                "level": "2",
+                "difficulty": "2/5",
+                "description": "level two twirls add different technique",
+                "instructions": [
+                    "static",
+                    "balance",
+                    "teachnique to twirls",
+                    "twirls",
+                    "jumps"
+                ],
+                "diagram": "/imgs/diagrams/twirl-l2.jpeg",
+                "active": 1
+            }
+        ],
+        "active": 1
+    }
+]
